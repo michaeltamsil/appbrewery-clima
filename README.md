@@ -1,3 +1,3 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
-![](./demo.gif)
+![](./demo.gif. = 250x)
